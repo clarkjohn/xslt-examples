@@ -1,0 +1,21 @@
+<html>
+<body>
+<h1>Ice Scraper, Windshield 4 inch</h1>
+<table border="1">
+<th>
+<tr>
+<td width="80">product ID</td><td>100-201-01</td>
+</tr>
+<tr>
+<td width="200">product name</td><td>Ice Scraper, Windshield 4 inch</td>
+</tr>
+<tr>
+<td width="200">price</td><td>$3.99</td>
+</tr>
+<tr>
+<td width="50">details</td><td>Basic Ice Scraper 4 inches wide, foam handle</td>
+</tr>
+</th>
+</table>
+</body>
+</html>

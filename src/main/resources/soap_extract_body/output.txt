@@ -1,0 +1,4 @@
+<m:GetStockPrice xmlns:m="http://www.example.org/stock" 
+                 xmlns:soap="http://www.w3.org/2003/05/soap-envelope">
+    <m:StockName>IBM</m:StockName>
+</m:GetStockPrice>
